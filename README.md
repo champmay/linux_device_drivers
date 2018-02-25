@@ -1,2 +1,0 @@
-# linux_device_drivers
-software_knowledge_of_device_drivers_on_linux_platform
